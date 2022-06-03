@@ -6,7 +6,7 @@
 - 
 - 🌱 I’m currently learning Firebase with flutter and Perfecting my skills with API calls
 - 
-- 🌱 I also do python but as i'm at an intermediate level
+- 🌱 I also do python but i'm at an intermediate level
 - 
 - 💞️ I’m looking to collaborate on any flutter project 
 - 
